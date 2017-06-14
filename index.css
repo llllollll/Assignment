@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.flexs {
+  display: flex;
+}
+div{
+  display: block;
+}
+
+#id {
+  flex-direction: column;
+}
+
+#aone {
+  text-align: center;
+  position: relative;
+  margin: 20;
+  background-color: #222;
+  color: white;
+}
+
+#atwo {
+  text-align: center;
+  position: relative;
+  margin: 20;
+  background-color: #127;
+  color: white;
+}
+
+#athree {
+  text-align: center;
+  position: relative;
+  margin: 20;
+  background-color: #087;
+  color: white;
+}
+
+#afour {
+  text-align: center;
+  position: relative;
+  background-color: #029;
+  color: white;
+}
+
+#afive {
+  text-align: center;
+  position: relative;
+  background-color: #097;
+  color: white;
+}
+
+#bone {
+  margin-left: 80;
+  position: relative;
+  color: green;
+  text-align: left;
+}
+
+#btwo {
+  margin-right: 20;
+  color: green;
+  text-align: right;
+}
+
+#bthree{
+  text-align: left;
+}
+
+#bfour {
+  margin-right: 20;
+  color: green;
+  text-align: right;
+}
